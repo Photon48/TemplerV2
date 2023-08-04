@@ -1,0 +1,17 @@
+langchain
+tiktoken
+pinecone-client
+python-dotenv
+openai
+unstructured
+python-magic
+chromadb==0.3.26
+faiss-gpu
+pydantic==1.10.8
+typing-inspect==0.8.0
+streamlit
+typing_extensions==4.5
+python-docx
+pypdfium2
+pytesseract
+tesseract-ocr
